@@ -51,10 +51,10 @@ app.use('/', routes());
 
 
 
-//Heroku asigna el puerto
-const host = '0.0.0.0';
-const port = process.env.PORT;
+const host = process.env.HOST || '0.0.0.0';
+const port = process.env.PORT || 5000;
 
+// Port
 app.listen(port, host, () => {
-    console.log('Server running!');
+    console.log('Server Running!');
 });
