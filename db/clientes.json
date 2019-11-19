@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5dc9943a47723a1224d90ec0"},"nombre":"Pedro M","apellido":"Feliu E","empresa":"Yomismeo","email":"ppfeliuu@gmail.com","telefono":"1234567","__v":0}
+{"_id":{"$oid":"5dceccd0a40d893524e6c25a"},"nombre":"Luisa","apellido":"Pere","empresa":"Face","email":"luisa@mail.com","telefono":"123456","__v":0}
+{"_id":{"$oid":"5dced0c60b59604138b94273"},"nombre":"Alex","apellido":"PPP","empresa":"Yo","email":"ale@email.com","telefono":"444555","__v":0}

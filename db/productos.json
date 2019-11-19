@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5dcc349c033f3b0ad8c34ddc"},"nombre":"Camiseta Angular 8","precio":35,"imagen":"0iNWWSyb.jpeg","__v":0}
+{"_id":{"$oid":"5dcc34a9033f3b0ad8c34ddd"},"nombre":"Camiseta React","precio":30,"imagen":"CmSD9Si1.jpeg","__v":0}
+{"_id":{"$oid":"5dcc34bf033f3b0ad8c34dde"},"nombre":"Camiseta Redux","precio":32,"imagen":"waWOvSen.jpeg","__v":0}
+{"_id":{"$oid":"5dd18bcc86db5f201c88fdf4"},"nombre":"Sass","precio":9,"imagen":"w5DDVENz.jpeg","__v":0}
+{"_id":{"$oid":"5dd18cc186db5f201c88fdf5"},"nombre":"Node","precio":222,"imagen":"oOZ3SWef.jpeg","__v":0}
